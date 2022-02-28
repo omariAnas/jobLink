@@ -1,0 +1,517 @@
+C:\Users\anass\source\repos\projet complet\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\anass\source\repos\projet complet\projet complet\bin\Debug\projet complet.exe
+C:\Users\anass\source\repos\projet complet\projet complet\bin\Debug\projet complet.pdb
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.connecter.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet complet.exe
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet complet.pdb
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.info_personnelle.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.base_info.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.menu.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.list_d_information.resources
+C:\Users\anass\source\repos\projet complet\projet complet\obj\Debug\projet_complet.a_propos.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\bin\Debug\projet complet.exe
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\bin\Debug\projet complet.pdb
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.a_propos.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.base_info.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.info_personnelle.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.list_d_information.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.menu.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.connecter.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.exe
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.pdb
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.login_user.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\lenovo\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.question.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\bin\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\bin\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.a_propos.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.base_info.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.info_personnelle.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.list_d_information.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.login_user.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.menu.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.connecter.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet_complet.question.resources
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet complet\projet complet\projet complet\obj\Debug\projet complet.pdb
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.admin.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\lenovo\Desktop\Projet\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\anass\Desktop\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\anass\Desktop\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.admin.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\anass\Desktop\projet c#\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\pc\Desktop\projet c#\projet c#\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\pc\Desktop\projet c#_expermente\projet c#\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\projet complet.exe.manifest
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\projet complet.application
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.exe.manifest
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet complet.application
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe.manifest
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.application
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Form2.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.send_cv.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.exe.manifest
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.application
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.firstform.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Form5.resources
+C:\Users\pc\Desktop\projet link job\projet link job\projet complet\bin\Debug\Guna.UI2.dll
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe.manifest
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\projet complet.application
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\Guna.UI2.dll
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Form2.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.firstform.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.inscription.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.login.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.send_CV.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.exe.manifest
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.application
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Cent_un.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Cih_Bank.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.City_bus.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Facebook.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.dell.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.if_you_have_question.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Inwi.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Ofppt.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Paypal.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Twitter.resources
+C:\Users\pc\Desktop\C_shar\projet link job\projet link job\projet complet\obj\Debug\projet_complet.google.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Cent_un.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Cih_Bank.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.City_bus.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Facebook.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.dell.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.google.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.if_you_have_question.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Inwi.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Ofppt.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Paypal.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.send_CV.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.Twitter.resources
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe.config
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe.manifest
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.application
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.exe
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\projet complet.pdb
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\Guna.UI2.dll
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.exe.manifest
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.application
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+C:\Users\anass\Desktop\projet link job\projet link job\projet complet\obj\Debug\projet_complet.validation_anscription.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\bin\Debug\Guna.UI2.dll
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Cent_un.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Cih_Bank.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.City_bus.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Facebook.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.dell.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.google.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.if_you_have_question.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Inwi.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Ofppt.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Paypal.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Twitter.resources
+C:\Users\anass\Desktop\projets c#\projet link job\projet complet\obj\Debug\projet_complet.validation_anscription.resources
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\projet complet.exe.config
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\projet complet.exe.manifest
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\projet complet.application
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\projet complet.exe
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\projet complet.pdb
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\CircularProgressBar.dll
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\Guna.UI2.dll
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\WinFormAnimation.dll
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\CircularProgressBar.xml
+D:\anas\projets c#\projet link job\projet complet\bin\Debug\WinFormAnimation.xml
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.AssemblyReference.cache
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Cent_un.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Cih_Bank.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.City_bus.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.contact.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.DG_esa.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tdi.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.DG_tri.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Facebook.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_afriquia.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_al_mada.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_attijariwafabank.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Auto_hall.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_bmce.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_ciments.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_groupe_maroc_telecom.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_marjane.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_ocp.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_orange.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_ralar_holding.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.form_royal_air_maroc.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.dell.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.google.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.if_you_have_question.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Form1.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.propos_equipe.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.infoApp.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Inwi.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.message__admin.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.messagebox_incorrect.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Ofppt.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Paypal.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Properties.Resources.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.conneect_admin_user.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.question_f.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.send_CV.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.Twitter.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet_complet.validation_anscription.resources
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.GenerateResource.cache
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CoreCompileInputs.cache
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.exe.manifest
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.application
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.csproj.CopyComplete
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.exe
+D:\anas\projets c#\projet link job\projet complet\obj\Debug\projet complet.pdb
